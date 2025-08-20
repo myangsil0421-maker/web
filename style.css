@@ -1,0 +1,13 @@
+.item{
+    background-color: khaki;
+    color: mediumblue;
+    margin:10px;
+    padding:10px;
+    content:10px;
+    border:10px;
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+}
